@@ -1,0 +1,12 @@
+html,body{
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    margin: 0;
+    background-color: #0F0715;
+    color: white;
+}
+
+.ProductImage{
+    object-fit: contain;
+    height: 350px;
+}
